@@ -41,7 +41,7 @@ client = gspread.authorize(creds)
 
 
 # Open the Google Sheet
-sheet = client.open('BAU Database').sheet1
+sheet = client.open('Filler Database').sheet1
 
 # Function to find the column index by name
 def find_col(col_name):
