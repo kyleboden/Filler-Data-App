@@ -41,7 +41,7 @@ percent_offset = ''
 
 def set_streamlit_page_config_once():
     try:
-        st.set_page_config(page_title="Filler Data", page_icon='☼', layout="wide")
+        st.set_page_config(page_title="Filler Data", page_icon='🔆', layout="wide")
         #st.title(page_title + " " + page_icon)
     except st.errors.StreamlitAPIException as e:
         if "can only be called once per app" in e.__str__():
