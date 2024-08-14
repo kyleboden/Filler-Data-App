@@ -6,12 +6,12 @@ import pytz
 page_title = "AMP Smart BAU"
 page_icon = ":money_with_wings:"  # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
 layout = "centered"
-setters = ['','Hunter Bolen', 'Jake Bolen', 'Danny Timmreck', 'Joshua Killpack', 'Closer Self-Gen']
-closers = ['','Kyle Boden', 'Spencer Jackson', 'Michael Oliveira']
-states = ['', 'CA', 'CT',  'FL', 'IA', 'IL', 'GA', 'KY', 'MA', 'ME', 'MO', 'NH', 'NJ', 'OH', 'RI', 'TX', 'UT', 'VT']
+setters = ['','Steve Rogers', 'Clint Barton', 'T\'Challa', 'Vision', 'Closer Self-Gen']
+closers = ['','Natasha Romanov', 'Tony Stark', 'Thor', 'Steven Strange']
+states = ['', 'CA', 'CT',  'FL', 'IA', 'IL', 'GA', 'KY']
 dispositions = ['', 'Closed', 'No Sit', 'Not Interested', 'Reschedule', 'Pitched, need to Follow Up', 'DNQ', 'We didn\'t call']
 system_details = ['', 'System Size in kW', 'Sold PPW', 'Loan Amount']
-lenders = ['', 'Enfin', 'Dividend', 'Goodleap', 'Sunlight', 'Mosaic', 'Enium', 'Skylight', 'Palmetto', 'Sunnova', 'Thrive', 'Sungage', 'Cash']
+lenders = ['', 'Oscorp', 'Daily Bugle', 'Stark industries', 'Alchemax', 'Cash']
 purch_prefs = ['', 'Loan', 'Cash', 'PPA']
 set_date = ''
 set_time = ''
