@@ -56,9 +56,9 @@ def main():
                 color: #ffffff; /* Font color on hover */
             }
             </style>
-            <a href="https://bau-app-new-e9uvydrunsxvh8pn5w627h.streamlit.app/Forms" class="custom-button">Go to Forms Page</a>
-            <a href="https://bau-app-new-e9uvydrunsxvh8pn5w627h.streamlit.app/Data_Visualization" class="custom-button">Go to Data Visualization Page</a>
-            <a href="https://bau-app-new-e9uvydrunsxvh8pn5w627h.streamlit.app/TV_Display" class="custom-button">Go to TV Display Page</a>
+            <a href="https://filler-data-kpi.streamlit.app/Forms" class="custom-button">Go to Forms Page</a>
+            <a href="https://filler-data-kpi.streamlit.app/Data_Visualization" class="custom-button">Go to Data Visualization Page</a>
+            <a href="https://filler-data-kpi.streamlit.app/TV_Display" class="custom-button">Go to TV Display Page</a>
             """,
             unsafe_allow_html=True
         )
@@ -66,8 +66,8 @@ def main():
     with col2:
         st.markdown(
             """
-            <a href="https://bau-app-new-e9uvydrunsxvh8pn5w627h.streamlit.app/Close_Tracker" class="custom-button">Go to Close Tracker Page</a>
-            <a href="https://bau-app-new-e9uvydrunsxvh8pn5w627h.streamlit.app//Map_of_States_we_Work_in" class="custom-button">Go to Maps of States Page</a>
+            <a href="https://filler-data-kpi.streamlit.app/Close_Tracker" class="custom-button">Go to Close Tracker Page</a>
+            <a href="https://filler-data-kpi.streamlit.app//Map_of_States_we_Work_in" class="custom-button">Go to Maps of States Page</a>
             """,
             unsafe_allow_html=True
         )
